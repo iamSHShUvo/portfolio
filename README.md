@@ -1,23 +1,15 @@
 # Md Shahadat Hossen Shuvo — Portfolio
 
-Personal research portfolio: medical physics, radiomics, dosiomics, and explainable AI.
-
 **Live site:** https://shahadat-shuvo.netlify.app
 
-## Files
+Download CV (on live site): https://shahadat-shuvo.netlify.app/assets/CV_Md_Shahadat_Hossen_Shuvo.pdf
 
-- `index.html` — full portfolio site
-- `assets/CV_Md_Shahadat_Hossen_Shuvo.pdf` — downloadable CV
-- `assets/logos/` — institution and conference logos
+## Local files
+
+- `index.html` — full portfolio
+- `assets/CV_Md_Shahadat_Hossen_Shuvo.pdf` — updated CV (Download button)
+- `assets/logos/` — logos
 - `favicon.svg`
-
-## Local preview
-
-```bash
-python3 -m http.server 8080
-```
-
-Open http://localhost:8080
 
 ## Author
 
