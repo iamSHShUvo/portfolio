@@ -4,15 +4,11 @@ Personal research portfolio: medical physics, radiomics, dosiomics, and explaina
 
 **Live site:** https://shahadat-shuvo.netlify.app
 
-## Stack
-
-- Static HTML / CSS / JS
-- Deployed on Netlify
-
 ## Files
 
-- `index.html` — full portfolio page
-- `assets/` — CV download, logos, profile image
+- `index.html` — full portfolio site
+- `assets/CV_Md_Shahadat_Hossen_Shuvo.pdf` — downloadable CV
+- `assets/logos/` — institution and conference logos
 - `favicon.svg`
 
 ## Local preview
@@ -21,7 +17,7 @@ Personal research portfolio: medical physics, radiomics, dosiomics, and explaina
 python3 -m http.server 8080
 ```
 
-Then open http://localhost:8080
+Open http://localhost:8080
 
 ## Author
 
